@@ -1,0 +1,20 @@
+package day1;
+
+public class BankAccount {
+    //states
+        //name
+        //account number
+            //address
+            //bank name
+    //account type
+    //branch name
+    //phone number
+
+           //behaviour
+
+
+
+
+
+}
+
