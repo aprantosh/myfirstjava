@@ -5,9 +5,12 @@ public class Car {
     //state
     //Model
     //Brand
-        //COuntryorigin
+    //Country origin
     //TYre brand
     //length
     //weight
+    //Speedometer(A&D)
+    //GasType
+    //
 
 }
