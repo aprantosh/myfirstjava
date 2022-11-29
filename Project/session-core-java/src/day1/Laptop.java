@@ -12,5 +12,9 @@ public class Laptop {
     //Price
     //Display type
     //GraphicsCard Type
-    //Intel Processor Type
+    //Operating system
+
+    //Behaviour
+    //color_type
+    //
 }

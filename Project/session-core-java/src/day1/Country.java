@@ -10,4 +10,8 @@ public class Country {
     //neighbouring country
     //capital city
     //President
+
+    //behaviour
+    //View_population_size
+    //
 }
